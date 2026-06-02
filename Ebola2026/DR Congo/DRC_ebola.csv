@@ -1,4 +1,4 @@
-Date of report,Confirmed cases cumulative,Confirmed deaths cumulative,Cumulative suspected cases,New confirmed cases,New confirmed death,New suspected cases
+Date of report,Confirmed cases cumulative,Confirmed deaths cumulative,Cumulative suspected cases,Change in cumulative cases since previous report,Change in confirmed deaths since previous report,Change in suspected cases since previous report
 14-May-26,8,4,246,8,4,246
 15-May-26,8,4,246,0,0,0
 16-May-26,8,4,246,0,0,0
@@ -15,4 +15,5 @@ Date of report,Confirmed cases cumulative,Confirmed deaths cumulative,Cumulative
 27-May-26,125,17,906,4,0,-171
 28-May-26,210,17,349,85,0,-557
 29-May-26,263,42,349,53,25,0
-30-May-26,282,42,220,19,0,-129
+30-May-26,282,42,321,19,0,-28
+31-May-26,321,48,220,39,6,-101
