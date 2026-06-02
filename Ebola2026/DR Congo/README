@@ -3,5 +3,6 @@ Ebola Virus Disease of Bundibugyo strain in the Democratic Republic of the Congo
 Data were compiled by SnowEpi based on the situation reports published by the
 Centre d'Opérations d'Urgence de Santé Publique, Ministry of Public Health, Hygiene and Social Welfare, DRC. 
 
-The number of new cases, new deaths and new suspected cases were calculated by taking difference between cumulative counts of successive reporting dates.
+The change in cumulative confirmed cases, change in cumulative confirmed deaths, and change in cumulative suspected cases were
+calculated by taking difference between cumulative counts of successive reporting dates.
 
