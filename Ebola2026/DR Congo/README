@@ -4,5 +4,6 @@ Data were compiled by SnowEpi based on the situation reports published by the
 Centre d'Opérations d'Urgence de Santé Publique, Ministry of Public Health, Hygiene and Social Welfare, DRC. 
 
 The change in cumulative confirmed cases, change in cumulative confirmed deaths, and change in cumulative suspected cases were
-calculated by taking difference between cumulative counts of successive reporting dates.
+calculated by taking difference between cumulative counts of successive reporting dates. Whenever available total suspected cases were calculated as the
+sum of cases under investigation and suspected cases under isolation.
 
