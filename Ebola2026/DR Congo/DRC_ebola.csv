@@ -1,0 +1,22 @@
+Date of report,Confirmed cases cumulative,Confirmed deaths cumulative,Cumulative suspected cases,Change in confirmed cumulative cases since previous report,Change in confirmed cumulative deaths since previous report,Change in suspected cases since previous report
+14-May-26,8,4,246,8,4,246
+15-May-26,8,4,246,0,0,0
+16-May-26,8,4,246,0,0,0
+17-May-26,13,4,246,5,0,0
+18-May-26,33,4,516,20,0,270
+19-May-26,51,4,575,18,0,59
+20-May-26,64,6,671,13,2,96
+21-May-26,83,9,746,19,3,75
+22-May-26,91,10,867,8,1,121
+23-May-26,101,10,904,10,0,37
+24-May-26,105,10,906,4,0,2
+25-May-26,106,12,998,1,2,92
+26-May-26,121,17,1077,15,5,79
+27-May-26,125,17,906,4,0,-171
+28-May-26,210,17,349,85,0,-557
+29-May-26,263,42,349,53,25,0
+30-May-26,238,42,321,-25,0,-28
+31-May-26,321,48,220,83,6,-101
+1-Jun-26,344,60,289,23,12,69
+2-Jun-26,363,62,ND,19,2,ND
+3-Jun-26,381,64,ND,18,2,ND
